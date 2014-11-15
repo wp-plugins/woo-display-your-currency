@@ -3,8 +3,8 @@ Contributors: brijeshmkt
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NHM7FHNF2SMKY
 Tags: currency, cart, checkout, commerce, configurable, multicurrency, download, downloadable, e-commerce, ecommerce, inventory, reports, sales, sell, shipping, shop, shopping, stock, store, woocommerce, variable, widgets, woothemes, wordpress ecommerce, multi currency, multicurrency
 Requires at least: 3.0.1
-Tested up to: 3.9.2
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
