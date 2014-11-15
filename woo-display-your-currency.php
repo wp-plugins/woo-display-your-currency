@@ -87,7 +87,7 @@ function custom_price_html( $price, $product ){
 	$exchangerate = (float)get_option('brijesh_exchange_rate');
 
     $_new_price = $product->price * $exchangerate;
-
+	$_new_price = number_format((float)$_new_price, 2, '.', '');
     $price = $price . '<br>'.get_option('brijesh_currency_symbol') ." " . $_new_price;
 
     
