@@ -54,11 +54,12 @@ Exchange rate will factor your configured woo commerce currency.  E.g. Say your 
 
 == Changelog ==
 
+= 1.1 =
+* Fix digit after decimal decimal issue.  Now the plugin shows two digits after decimal point.  E.g. RS 100.56 instead of RS 100.5666666
+
 = 1.0 =
 * This is the first release.
 
-= 1.1 =
-* Fix digit after decimal decimal issue.  Now the plugin shows two digits after decimal point.  E.g. RS 100.56 instead of RS 100.5666666
 
 
 
