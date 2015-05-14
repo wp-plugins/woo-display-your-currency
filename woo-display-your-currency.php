@@ -75,10 +75,8 @@ Note: This currency is only for display.
 
 
 </div>
-<?php } ?>
-
 <?php
-
+}
 add_filter( 'woocommerce_get_price_html', 'custom_price_html', 100, 2 );
 
 
@@ -95,4 +93,3 @@ function custom_price_html( $price, $product ){
     return apply_filters( 'woocommerce_get_price', $price );
 }
 ?>
-
